@@ -1,0 +1,1 @@
+var fabric = require('fabric');

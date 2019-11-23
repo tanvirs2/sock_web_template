@@ -1,0 +1,27 @@
+{
+  "name": "sock_web_temp",
+  "version": "1.0.0",
+  "description": "product customize app",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm -v && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-rubel/sock_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-rubel/sock_web/issues"
+  },
+  "homepage": "https://github.com/dev-rubel/sock_web#readme",
+  "dependencies": {
+    "fabric": "^3.4.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
