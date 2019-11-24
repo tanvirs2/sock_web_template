@@ -1,0 +1,12 @@
+
+
+ At step-three.html
+ from 135 line to 253 line add korte hobe
+
+
+ At style.css
+573 to 624 line add korte hobe
+
+
+at img folder 
+check_on_24x24.png add koren
