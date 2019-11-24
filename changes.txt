@@ -10,5 +10,3 @@
 
 at img folder 
 check_on_24x24.png add koren
-
-test
